@@ -1,0 +1,1 @@
+alter SESSION set "_oracle_script"=true;
